@@ -1,0 +1,7 @@
+[ 2026-04-21 11:03:47,290 ] google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+[ 2026-04-21 11:03:47,468 ] httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+[ 2026-04-21 11:08:04,343 ] root - INFO - 
+[ 2026-04-21 11:08:10,695 ] google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+[ 2026-04-21 11:08:14,912 ] httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[ 2026-04-21 11:19:26,371 ] google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+[ 2026-04-21 11:19:29,510 ] httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
