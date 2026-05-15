@@ -263,4 +263,3 @@ Logs capture speech recognition errors, exceptions, and application events for d
 
 ---
 
-*Project Draft prepared for the JARVIS AI Voice Assistant System by Leslie Tientcheu.*
